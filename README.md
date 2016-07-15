@@ -3,6 +3,8 @@
 ## What I Learned
 - Reducers- function that returns a piece of the application state.
 - Containers/Smart Components- components that has direct access to state produce by Redux.
+- Use Redux connect in a container to connect React and Redux.
+
 
 ## Resources
 Udemy- [Modern React with Redux](https://www.udemy.com/react-redux/learn/v4/overview)
